@@ -37,7 +37,7 @@ public class Configs {
 		           dmds.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		           dmds.setUrl("jdbc:mysql://127.0.0.1:3306/projects");
 		           dmds.setUsername("root");
-		           dmds.setPassword("umagouri@");
+		           dmds.setPassword("dummy");
                     return dmds;		    
 	  }
 	  
